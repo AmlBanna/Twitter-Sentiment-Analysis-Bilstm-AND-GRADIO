@@ -30,6 +30,15 @@ This project implements a robust sentiment analysis system that classifies Twitt
 - **Model Visualization** and performance metrics  
 
 ---
+### 📊 Dataset
+The project uses the Twitter Sentiment Classification dataset with:
+
+74,681 training samples
+
+999 test samples
+
+4 sentiment classes
+
 
 ## 🚀 Quick Start
 
@@ -54,35 +63,6 @@ jupyter notebook notebooks/twitter-sentiment-analysis-bilstm-acc-95.ipynb
 
 ```
 
-
-
-## 📈 Results
-
-### Confusion Matrix
-![Confusion Matrix](docs/demo_images/confusion_matrix.png)
-
-### Training History
-![Training History](docs/demo_images/training_history.png)
-
----
-
-## 🎥 Demo
-
-### Video Demonstration
-[![Demo Video](docs/demo_images/video_thumbnail.png)](docs/demo_videos/demo.mp4)  
-*Click the image above to watch the full demo video*
-
-### Live Prediction Examples
-
-| Tweet | Predicted Sentiment | Confidence |
-|-------|-------------------|------------|
-| "I love this new feature! 😍" | Positive | 98% |
-| "This is terrible, worst experience ever 😠" | Negative | 96% |
-| "The weather is okay today" | Neutral | 89% |
-| "Buy now at 50% discount!" | Irrelevant | 92% |
-
----
-
 ## 🔧 Technical Details
 
 ### Model Architecture
@@ -96,4 +76,35 @@ jupyter notebook notebooks/twitter-sentiment-analysis-bilstm-acc-95.ipynb
 - Tokenization with NLTK  
 - Stop words removal  
 - Lemmatization  
-- Sequence padding  
+- Sequence padding
+
+## 📈 Results
+
+### Confusion Matrix
+![Confusion Matrix](MEDIA/Screenshot%202025-11-06%20080858.png)
+
+
+
+## 🎥 Demo
+
+### Video Demonstration
+[Watch Demo Video](MEDIA/Screen_Recording_2025_11_06_052612_V1.mp4)
+
+[![Demo Video](MEDIA/demo.gif)](MEDIA/Screen_Recording_2025_11_06_052612_V1.mp4)
+
+*Click the image above to watch the full demo video*
+
+### Live Prediction Examples
+
+| Tweet | Predicted Sentiment | Confidence |
+|-------|-------------------|------------|
+| "I love this new feature! 😍" | Positive | 98% |
+| "This is terrible, worst experience ever 😠" | Negative | 96% |
+| "The weather is okay today" | Neutral | 89% |
+| "Buy now at 50% discount!" | Irrelevant | 92% |
+
+---
+
+
+
+## ⭐ Don't forget to star this repository if you find it helpful!
