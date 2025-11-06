@@ -62,7 +62,7 @@ pip install -r requirements.txt
 jupyter notebook notebooks/twitter-sentiment-analysis-bilstm-acc-95.ipynb
 
 ```
-## 🧪 Initial Experiment - v1-problem.ipynb
+##  Initial Experiment - v1-problem.ipynb
 
 This file represents an **initial experiment** for Twitter sentiment analysis.  
 In this early version, the model struggled to correctly classify negative tweets.  
