@@ -91,6 +91,10 @@ jupyter notebook notebooks/twitter-sentiment-analysis-bilstm-acc-95.ipynb
 [Watch Demo Video](MEDIA/Screen_Recording_2025_11_06_052612_V1.mp4)
 
 [![Demo Video](MEDIA/demo.gif)](MEDIA/Screen_Recording_2025_11_06_052612_V1.mp4)
+[![Demo Video](MEDIA/Screen_Recording_2025_11_06_052612_trim.gif)](MEDIA/Screen_Recording_2025_11_06_052612_V1.mp4)
+### Video Demonstration
+[![Demo Video](MEDIA/Screen_Recording_2025_11_06_052612_trim.gif)](MEDIA/Screen_Recording_2025_11_06_052612_V1.mp4)  
+*Click the GIF above to watch the full video*
 
 *Click the image above to watch the full demo video*
 
