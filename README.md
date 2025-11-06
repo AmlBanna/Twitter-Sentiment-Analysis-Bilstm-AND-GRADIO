@@ -96,7 +96,7 @@ You can check out the notebook [here](notebooks/v1-problem.ipynb).
 
 
 ## 🎥 Demo
-[![Demo Video](MEDIA/Demo.gif)](MEDIA/Screen_Recording_2025_11_06_052612_V1.mp4)
+[![Demo Video](MEDIA/Demo.gif)](MEDIA/Demo.mp4)
 ### Video Demonstration
 [Watch Demo Video](MEDIA/Screen_Recording_2025_11_06_052612_V1.mp4)
 
