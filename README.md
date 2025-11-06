@@ -91,14 +91,14 @@ You can check out the notebook [here](notebooks/v1-problem.ipynb).
 ## 📈 Results
 
 ### Confusion Matrix
-![Confusion Matrix](MEDIA/Screenshot%202025-11-06%20080858.png)
+![Confusion Matrix](MEDIA/Confusion_matrix.png)
 
 
 
 ## 🎥 Demo
 [![Demo Video](MEDIA/Demo.gif)](MEDIA/Demo.mp4)
 ### Video Demonstration
-[Watch Demo Video](MEDIA/Screen_Recording_2025_11_06_052612_V1.mp4)
+[Watch Demo Video](MEDIA/Demo.mp4)
 
 
 ### Live Prediction Examples
